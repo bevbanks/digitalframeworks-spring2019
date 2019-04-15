@@ -2,13 +2,19 @@
 
 ### This is due at 6 pm next Tuesday. 
 
-###### Story Idea 1: U.S. Measles Vaccinations 
+###### Story Idea 1: How many states are at a high risk of measle outbreaks?
 [USA Today Article](https://www.usatoday.com/story/news/health/2019/04/10/measles-outbreak-students-exempt-vaccines/3429376002/)
 
-| First Header  | Second Header |
+| Year |  Outbreaks |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 2014 | 667        |
+| 2015 | 188        |
+| 2016 | 86         |
+| 2017 | 120        |
+| 2018 | 372        |
+| 2019 | 555        |
+
+Source: [CDC] (https://github.com/bevbanks/digitalframeworks-spring2019/edit/master/assignment1.md)
 
 100 word write-up
 
