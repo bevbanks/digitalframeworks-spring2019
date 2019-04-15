@@ -2,11 +2,16 @@
 
 ### This is due at 6 pm next Tuesday. 
 
-###### Story Idea 1: How many states are at a high risk of measle outbreaks?
-[USA Today Article](https://www.usatoday.com/story/news/health/2019/04/10/measles-outbreak-students-exempt-vaccines/3429376002/)
+###### Story Idea 1: U.S. Measles Outbreaks
+
+Measles outbreaks in the United States are on the rise. According to the Centers for Disease Control and Prevention, measles outbreaks have risen from 63 cases in 2010 to 555 cases so far in 2019.  The recent outbreak in a Brooklyn neighborhood and the outbreak in New Jersey earlier this year are two examples of the measles resurgence. Anti-vaccination sentiments and state restrictions on compulsory vaccinations impact how health officials handle future outbreaks for other types of infectious diseases. For this project, my goal is to use data to answer how many state vaccination laws impacting the recent measles outbreaks ?
 
 | Year |  Outbreaks |
 | ------------- | ------------- |
+| 2010 | 63         |
+| 2011 | 220        |
+| 2012 | 55        |
+| 2013 | 187        |
 | 2014 | 667        |
 | 2015 | 188        |
 | 2016 | 86         |
@@ -16,10 +21,8 @@
 
 Source: [CDC](https://github.com/bevbanks/digitalframeworks-spring2019/edit/master/assignment1.md)
 
-100 word write-up
 
-
-Critique:
+[USA Today Article](https://www.usatoday.com/story/news/health/2019/04/10/measles-outbreak-students-exempt-vaccines/3429376002/)
 
 ### Objective: Clarity and accuracy
 
