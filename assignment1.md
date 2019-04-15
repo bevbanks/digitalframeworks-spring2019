@@ -1,8 +1,8 @@
 # Assignment 1
 
-### This is due at 6 pm next Tuesday. 
+###  This is due at 6 pm next Tuesday. 
 
-###### Story Idea 1: U.S. Measles Outbreaks
+# Story Idea 1: U.S. Measles Outbreaks
 
 Measles outbreaks in the United States are on the rise. According to the Centers for Disease Control and Prevention, measles outbreaks have risen from 63 cases in 2010 to 555 cases so far in 2019.  The recent outbreak in a Brooklyn neighborhood and the outbreak in New Jersey earlier this year are two examples of the measles resurgence. Anti-vaccination sentiments and state restrictions on compulsory vaccinations impact how health officials handle future outbreaks for other types of infectious diseases. For this project, my goal is to use data to answer how many state vaccination laws impact the recent measles outbreaks ?
 
@@ -22,7 +22,7 @@ Measles outbreaks in the United States are on the rise. According to the Centers
 Source: [CDC](https://github.com/bevbanks/digitalframeworks-spring2019/edit/master/assignment1.md)
 
 
-[USA Today Article](https://www.usatoday.com/story/news/health/2019/04/10/measles-outbreak-students-exempt-vaccines/3429376002/)
+### [USA Today Article](https://www.usatoday.com/story/news/health/2019/04/10/measles-outbreak-students-exempt-vaccines/3429376002/)
 
 ### Objective: Clarity and accuracy
 
@@ -52,7 +52,7 @@ Source: [CDC](https://github.com/bevbanks/digitalframeworks-spring2019/edit/mast
 * Did the piece use some creative elements to good effect? As in, to emphasize those areas that could draw someone in, or to add detail where needed, but not just random visual or story junk that distracts you?
    * My rating is a 3. The hover tool on the line graph was a great effect  and added to the overall effectiveness of the visualization. As for the map, I think more creative effects could have been added to engage the audience with the points of outbreak. One of those effects could have been the pop up of information with a hover tool or creating a map graphic outside of google maps so that user had more control over selecting data points. 
 
-###### Story Idea 2: Animal Protection Laws
+# Story Idea 2: Animal Protection Laws
 
 The evolution of animal rights recognition has manifested itself in some U.S. state laws. The Animal Legal Defense Fund released their rankings for the states with the strongest and weakest animal protection laws. States like Illinois, Louisiana, and Virginia have the most protections while and North Dakota, Georgia, and Kentucky have the least. There are different types of companies that benefit from lax animal protection laws. For this project, I want to use data to answer how businesses connected to animal rights abuses are taking advantage of weaker animal protection laws in the states with the weakest animal protection statutes? 
 
@@ -67,7 +67,7 @@ The evolution of animal rights recognition has manifested itself in some U.S. st
 
 Source: [Animal Legal Defense Fund](https://aldf.org/wp-content/uploads/2019/01/Animal-Protection-Laws-of-the-United-States-2018-full-report.pdf)
 
-[US News Article](https://www.usnews.com/news/best-states/articles/2019-01-30/states-with-the-strongest-animal-protection-laws)
+  ### [US News Article](https://www.usnews.com/news/best-states/articles/2019-01-30/states-with-the-strongest-animal-protection-laws)
 
 ### Objective: Clarity and accuracy
 
