@@ -14,7 +14,7 @@
 | 2018 | 372        |
 | 2019 | 555        |
 
-Source: [CDC] (https://github.com/bevbanks/digitalframeworks-spring2019/edit/master/assignment1.md)
+Source: [CDC](https://github.com/bevbanks/digitalframeworks-spring2019/edit/master/assignment1.md)
 
 100 word write-up
 
@@ -66,10 +66,16 @@ Critique:
 ###### Story Idea 2: Animal Protection Laws
 [US News Article](https://www.usnews.com/news/best-states/articles/2019-01-30/states-with-the-strongest-animal-protection-laws)
 
-| First Header  | Second Header |
+| State  | Ranking |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Illinois  | 1  |
+| Oregon  | 2 |
+| Maine  | 3 |
+| Iowa  | 48 |
+| Mississippi | 49 |
+| Kentucky  | 50 |
+
+Source: [Animal Legal Defense Fund](https://aldf.org/wp-content/uploads/2019/01/Animal-Protection-Laws-of-the-United-States-2018-full-report.pdf)
 
 100 word write-up
 
