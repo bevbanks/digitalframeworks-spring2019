@@ -10,9 +10,11 @@ The recent measles outbreak across the U.S. has prompted multiple lawmakers to i
 - The date of when the legislation was introduced 
 - The name of the legislator who sponsored the bill or resolution
 - The congressional district of the sponsor 
-- A tweet about vaccines or the legislation 
-- A link to state Health Department Press Releases 
+- A link to a tweet about vaccines or the legislation 
+- A link to state Health Department Press Releases with number of most recent cases reported
 - A list of campaign contributions from health professionals
 - A list of campaign contributions from pharmaceuticals
 
 I will collect data the data by checking congressional databases like congress.gov for legislation that was introduced about vaccines. I will use to Twitter to check the lawmaker's accounts for tweets about vaccines or the sponsored legislation. I will use OpenSecrets to find information related to contributions from healthcare professionals and pharmaceuticals in the 2018 cycles. Lastly, I will find the number of outbreaks in 2019 per each representatives state in health department press releases. 
+
+Link to [Data Sheet](https://docs.google.com/spreadsheets/d/1fN9MxRtk2-bVJko1-lVoAh3imLHINYbUDgTrBwS1JI4/edit?usp=sharing)
