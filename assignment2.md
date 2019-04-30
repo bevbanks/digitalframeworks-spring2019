@@ -12,7 +12,7 @@ The recent measles outbreak across the U.S. has prompted multiple lawmakers to i
 - The party affiliation of the member (Republican, Democrat or Independent) 
 - The congressional district of the sponsor 
 - A link to the lawmaker's tweet about vaccines or the legislation (the tweet shows how the lawmaker is communicating the legislation to the public) 
-- A link to state health department press releases with number of most recent cases reported (the number of cases per state shows the severity of the problem)
+- A link to state health department press releases with number of most recent cases of measles reported (the number of cases per state shows the severity of the problem)
 - A list of campaign contributions from health professionals
 - A list of campaign contributions from pharmaceuticals
 
