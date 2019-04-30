@@ -12,9 +12,9 @@ The recent measles outbreak across the U.S. has prompted multiple lawmakers to i
 - The party affiliation of the member (Republican, Democrat or Independent) 
 - The congressional district of the sponsor 
 - A link to the lawmaker's tweet about vaccines or the legislation (the tweet shows how the lawmaker is communicating the legislation to the public) 
-- A link to state health department press releases with number of most recent cases of measles reported (the number of cases per state shows the severity of the problem)
+- A link to state health department press releases with number of most recent cases of measles reported (the number of cases per state shows the severity of the problem in each district)
 - A list of campaign contributions from health professionals
-- A list of campaign contributions from pharmaceuticals
+- A list of campaign contributions from pharmaceuticals (the numbers for both health professionals and pharmaceuticals indicate the level of influence the industry has over a particular lawmaker)
 
 I will collect the data by checking congressional databases like congress.gov for legislation that was introduced about vaccines. I will use Twitter to check lawmakers' accounts for tweets about vaccines or the sponsored legislation. I will use OpenSecrets.org to find information related to contributions from health professionals and pharmaceuticals in the 2018 cycle. Lastly, I will find the number of outbreaks in 2019 for the representative's state through health department press releases. 
 
