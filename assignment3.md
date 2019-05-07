@@ -3,6 +3,10 @@
 
 The data set that I cleaned for this assignment was retrieved from the Centers for Disease Control and Prevention's [Vaccine Adverse Event Reporting System.](https://wonder.cdc.gov/vaers.html)
 
+[Original Copy](https://github.com/bevbanks/digitalframeworks-spring2019/blob/master/2019VAERSVAX%20original.csv)
+
+[Clean Copy](https://github.com/bevbanks/digitalframeworks-spring2019/blob/master/2019VAERSVAX%20edited.csv)
+
 ###### Below are the steps I took to clean the dataset. 
 
 1. First, I renamed all of the titles for the rows. The original titles were confusing and did not adequately explain what the purpose the data point. Additionally, these titles included acronyms that were not universally understood outside the medical community.
@@ -14,7 +18,4 @@ The data set that I cleaned for this assignment was retrieved from the Centers f
 7. Next, I replaced UN in column F to 0 because the unknown related to the number of dosages.
 8. Lastly, I replaced acroynms such as RL to right leg and LA to left arm. If the box was blank, I put unknown. 
 
-[Original Copy](https://github.com/bevbanks/digitalframeworks-spring2019/blob/master/2019VAERSVAX%20original.csv)
-
-[Clean Copy](https://github.com/bevbanks/digitalframeworks-spring2019/blob/master/2019VAERSVAX%20edited.csv)
 
