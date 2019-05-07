@@ -14,5 +14,7 @@ The data set that I cleaned for this assignment was retrieved from the Centers f
 7. Next, I replaced UN in colum F to 0 because the unknown relateed to the number of dosages.
 8. Lastly, I replaced acroynms such as RL to right leg and LA to left arm. If the box was blank, I put unknown. 
 
+[Original Copy](https://github.com/bevbanks/digitalframeworks-spring2019/blob/master/2019VAERSVAX%20original.csv)
 
+[Clean Copy](https://github.com/bevbanks/digitalframeworks-spring2019/blob/master/2019VAERSVAX%20edited.csv)
 
