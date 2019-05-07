@@ -9,7 +9,10 @@ The data set that I cleaned for this assignment was retrieved from the Centers f
 2. I reorganized the columns so that the vaccination name came after the vaccination identification number. 
 3. I checked each column for inconsistences and misspellings. In Colum C, most of the company’s names were consistent. I changed the name ‘PFIZER\WYETH’ to “PFIZER & WYETH” to match the other names in the set. I made this change using the find and replace tool in excel. 
 4. I also removed any commas from the names such as ‘SEQIRUS, INC.’ to match the formatting of the other company names. 
-5. I replaced UNK with unknown for column F to make the information clearer. I also replaced N/A with unknown for consistency. 
-6. Then, I Googled searched the meaning of several acronyms for columns G and H. The CDC provided several of the meanings for the acronyms. For instance, SC stands for subcutaneous and IM stands for intramuscular. 
+5. I replaced UN unknown for column G to make the information clearer. I also replaced N/A with unknown for consistency. 
+6. Then I Googled searched the meaning of several acronyms for columns G and H. The CDC provided several of the meanings for the acronyms. For instance, SC stands for subcutaneous and IM stands for intramuscular. For the acronyms not listed on the CDC, I located their meaning through a Google search. 
+7. Next, I replaced UN in colum F to 0 because the unknown relateed to the number of dosages.
+8. Lastly, I replaced acroynms such as RL to right leg and LA to left arm. If the box was blank, I put unknown. 
+
 
 
