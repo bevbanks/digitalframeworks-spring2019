@@ -5,10 +5,10 @@ Develop and write out your final story pitch. Schedule a time to talk with me ab
 
 As part of your pitch, please include the following:
 
-1. What data source(s) you plan on using (though you can always add more later)
-1. Some sources you can talk to about the data or to get anecdotes from it
-1. What elements in the data might be good candidates to visualize
-1. What your news hook is - why is this timely?
-1. What question will you answer with your data, and why is it newsworthy?
+I plan to analyze the relationship between lawmakers who sponsor pro-vaccination legislation and the vaccination rates in their respective districts. What are the vaccination rates in each of these lawmakers’ counties? Are the rates higher or lower in these counties? I’m also interested in the timeliness of introducing vaccine legislation with the occurrence of measles outbreak in each members’ state.
 
-You can choose whether to talk to me about the pitch before or after submitting the written pitch on Github, but both should be done by the beginning of class.
+I will use data from state health departments to calculate the vaccination rates by county for each members’ state as well as data from the Centers for Disease Control and Prevention for a comparison to national vaccination rates. 
+
+This story is timely because measle outbreaks have resurged in the United States and sparked a discussion on the rates of vaccinations across the country. 
+
+For sources, I could speak with the offices for the members of Congress who have proposed vaccine legislation. In addition, I could speak with a vaccine specialist at the CDC who could provide more context for the vaccination rate data, and speak with state health department officials about vaccination rates per county.
