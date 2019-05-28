@@ -11,11 +11,10 @@ Link to Data:
 ###### Answer: The districts with the highest average percent complete for all immunizations are eighth congressional district at 8 percent and the fourth district at 83.78 percent. 
 
 2. Which school and which congressional district had the largest sum number of students exempt for the measles mumps rubella immunization? 
-###### Answer: 
+###### Answer: The third congressional district which has the largest number of students exempt for the measles mumps rubella immunizations at 4530 and the school with the largest number is St. Catherine School with 201 exemptions. 
 
 3. How many schools in Washington state had religious exemptions which totaled more than five percent? 
 ###### Answer: The following schools had religious exemption rates which totaled more than five percent: Covenant Christian School (13.8 %), Calvary Chapel Christian School (28.6 %), Curlew Elem & High School (7.2 %), Explorations Academy/Global Community Institute (5.9 %), Overcomer Academy ( 12.2 %), Paideia High School (10 %), Pateros High School (5.7 %), Pateros Elementary (5.4 %), Point Roberts Primary (6.7 %), Reardan Middle-Senior High School (6.2 %), Skykomish Elementary and Middle School (5.1 %), Spokane Windsong School (7.5 %), St. Basil Scademy of Classical Studies (7.4 %), Stella Maris Academy (14.3 %). 
-
 
 ###### Steps to Clean Data: 
 
