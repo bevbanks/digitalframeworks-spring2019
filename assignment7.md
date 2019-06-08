@@ -1,4 +1,14 @@
-Assignment 7: Find a Story
+### Assignment 7: Find a Story
+
+Summary: In FEC filings for indepdent expenditures given in support of President Trump's 2020 relelection, I found data for the 2015-2016 and 2019-2020 cycles that show how much money was used for different types of outreach. For instance, the Committee to Defend the Presiednt spent XXXX on online voter contact in 2019. In 2015, 
+
+Pitch: I would compare how much money was allocated at this point in the 2015 cycle to the 2019 cycle and for which
+
+Data Diary: 
+
+Headline:
+
+Nut Graf:
 Using either the FEC, Senate lobbying portal, congressional disclosure forms or White House disclosure forms, find a newsworthy story that hasn't been previously reported. This can be something of interest to a local or national news audience.
 
 Write a pitch to your editor about how you would pursue this story. This may include what other sources you would check with, what further data analysis you may perform and how long the story might take you.
