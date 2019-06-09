@@ -1,8 +1,10 @@
 ### Assignment 7: Find a Story
 
-Summary: In FEC filings for indepdent expenditures given in support of President Trump's 2020 relelection, I found data for the 2015-2016 and 2019-2020 cycles that show how much money was used for different types of outreach. For instance, the Committee to Defend the Presiednt spent XXXX on online voter contact in 2019. In 2015, 
+Summary: In FEC filings for indepdent expenditures I found that more indepdent expenditures were made in the last six months support of Trump compared to the first six months after he decided to run. Opposition expensitures were slightly higher at this point in 2019 than in 2015. 
 
-Pitch: I would compare how much money was allocated at this point in the 2015 cycle to the 2019 cycle and for which
+Pitch: I would compare the sum of how much money was allocated at this point in the 2019 for supporting and opposing independent expenditures than in 2015. I would also interview XXX
+
+In order to find my story I did the following: 
 
 Data Diary: 
 
