@@ -136,5 +136,19 @@ Title: Chairman of the Elementary & Secondary Education
 Email: repmikesmith@gmail.com 
 Phone: (309) 353-6276
 
+**Sources for Data:** 
+
+Vaccination Coverage for Selected Vaccines and Exemption Rates Among Children in Kindergarten — United States, 2017–18 School Year
+https://www.cdc.gov/mmwr/volumes/67/wr/mm6740a3.htm#T1_down
+
+CDC Reported Outbreak cases 
+https://www.cdc.gov/measles/cases-outbreaks.html
+
+NCSL
+http://www.ncsl.org/research/health/school-immunization-exemption-state-laws.aspx
+
+Washington State Health Department Data 
+
+https://www.doh.wa.gov/YouandYourFamily/IllnessandDisease/Measles/Measles2019
 
 
