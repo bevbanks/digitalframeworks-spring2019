@@ -1,7 +1,7 @@
 Beverly Banks 
 Digital Frameworks Final Story
 June 11, 2019 
-Word Count: 1034
+Word Count: 1035
 
 ### Higher kindergarten vaccine rates and personal exemptions may not inhibit measles outbreaks 
 
@@ -13,7 +13,7 @@ The rapid spread of measles threatens vulnerable populations such as children un
 
 In October 2018, the CDC released a study focusing on the vaccination coverage and exemption rates among children in kindergarten during the 2017-2018 school year. 
 
-Researchers assessed the percentages of kindergarteners covered for the measles, mumps and rubella vaccine, or MMR, as well as the rate of exemptions for medical issues, religious or personal beliefs. Coverage rates 95 percent or higher were considered the gold standard to create community immunity and lessen the chances for potential outbreaks. 
+Researchers assessed the percentages of kindergarteners covered for the measles, mumps and rubella vaccine, or MMR, as well as the rate of exemptions for medical issues, religion or personal beliefs. Coverage rates 95 percent or higher were considered the gold standard to create community immunity and lessen the chances for potential outbreaks. 
 
 Out of the 32 states without personal exemptions and a high vaccine rate, nine states reported measles cases this year. States like Virginia and California with high kindergarten vaccine coverage rates have limits on personal exemptions but both have reported measles cases this year. In contrast, D.C. has one of the lowest vaccine rates for kindergarteners as well as limits on personal exemptions but it has yet to report a measles case in 2019. 
 
@@ -23,13 +23,13 @@ Carla Black, one of the authors of the study and an epidemiologist at the CDC, n
 
 Black pointed out how even before the elimination on personal exemptions, California raised its coverage rate through focusing on non-exempt unvaccinated children. 
 
-“The students that don't have an exemption but have been allowed to enter school without being fully immunized, and they (California) kind of cracked down on that.,” Black said. “That is another thing that had an impact on increasing their coverage.”
+“The students that don't have an exemption but have been allowed to enter school without being fully immunized, and they (California) kind of cracked down on that,” Black said. “That is another thing that had an impact on increasing their coverage.”
 
 As more states eliminate personal exemptions, these coverage rates may change but states are still at risk for children who are unvaccinated and not exempt. 
 
 In Washington the kindergarten vaccine rate is 90.6 percent although this rate could change with the enactment of a new personal exemption law on July 28. 
 
-In March Rep. Paul Harris, R-Vancouver, of the Washington State House of Representatives sponsored a bill to eliminate personal exemptions for the MMR vaccine after his district experienced an outbreak. 
+In March Rep. Paul Harris, R-Vancouver, of the Washington State House of Representatives, sponsored a bill to eliminate personal exemptions for the MMR vaccine after his district experienced an outbreak. 
 
 “33 states did not have personal exemptions,” Harris said. “I think we became the 34th so the vast majority of states don't allow personal exemptions.” 
 
@@ -39,7 +39,7 @@ As an immunization health promotion advisor in the department, Danielle Koenig h
 
 “Right now we do have the benefit in Washington that more than nine out of 10 kindergartners are vaccinated against measles,” Koenig said. “We’d really like to see that around 95 percent or higher to prevent measles.” 
 
-In terms of whether the new legislation will increase Washington’s coverage rate to 95 percent, Harris said he will “ wait and see” what happens a couple of years after the law has taken effect. 
+In terms of whether the new legislation will increase Washington’s coverage rate to 95 percent, Harris said he will “wait and see” what happens in a couple of years after the law has taken effect. 
 
 “That five-percent is very important and it'll be interesting to see where we end at with what’s gone on,” Harris said. 
 
@@ -47,7 +47,7 @@ Unlike Washington and California, D.C. has the lowest kindergarten vaccination r
 
 Dr. Anjali Talwalkar is the senior deputy director for the community health administration in the D.C. Department of Health and she said her office is monitoring the completion of both MMR doses to ensure kids are completely vaccinated. 
 
-“We closely track for measles and for children, immunizations and vaccinations related to the date of birth for a child.” Talwalkar said. “Pretty much any day a child might have a birthday and they can become due or overdue or a vaccine.” 
+“We closely track for measles and for children, immunizations and vaccinations related to the date of birth for a child,” Talwalkar said. “Pretty much any day a child might have a birthday and they can become due or overdue or a vaccine.” 
 
 Given the recently reported cases in Northern Virginia and the Baltimore area, Black said D.C. is at risk but the close proximity of children in a school exposed to measles is a larger factor in a potential outbreak. 
 
@@ -61,7 +61,7 @@ Marshall Vogt, an epidemiologist at the Virginia Department of Health, said the 
 
 Mississippi and West Virginia have the highest kindergarten vaccination coverage for measles in the country at 99.4 percent and 98.4 percent respectively. These states are examples in which strict exemption rates may translate to higher vaccine coverage and less outbreaks. 
 
-According to the West Virginia Department of Health, West Virginia has not had a confirmed measles case since 2009 or an outbreak since 1994 which may be linked to their laws against person and religious exemptions. 
+According to the West Virginia Department of Health, West Virginia has not had a confirmed measles case since 2009 or an outbreak since 1994 which may be linked to their laws against personal and religious exemptions. 
 
 #### Data Visualizations One
 https://public.tableau.com/profile/bev.banks#!/vizhome/FinalProject2_15602357609060/Dashboard6?publish=yes
